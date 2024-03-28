@@ -68,7 +68,7 @@ body {
   width: 40px;
   height: 23px;
   position: relative;
-  display: none;
+/*   display: none; */
 }
 
 .header__line {
